@@ -1,5 +1,9 @@
 # Submission Notes
 
+## Demo Video
+
+[Watch the working output demo video](https://www.youtube.com/watch?v=tvme5A2-sBM)
+
 ## Most Important Problem Identified
 
 The most important issue in the original implementation was that it trusted the language model output directly.
